@@ -5,6 +5,7 @@ return_array = []
     original_array << string.reverse 
   end 
   return_array.join("")
+end
   
   
 def reverse_each_word(string)
